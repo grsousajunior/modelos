@@ -18,6 +18,34 @@ Repositório para modelos moleculares usados no ensino de química.
 - [x] [Nonano](https://grsousajunior.github.io/nonano)
 - [x] [Decano](https://grsousajunior.github.io/decano)
 
+### Haloalcanos (12)
+
+Abaixo os modelos de haloalcanos disponíveis separados por halogênio.
+
+#### Flúor (2)
+
+- [x] [Fluorometano](https://grsousajunior.github.io/fluorometano)
+- [x] [Fluoroetano](https://grsousajunior.github.io/fluoroetano)
+
+#### Cloro (6)
+
+- [x] [Clorometano](https://grsousajunior.github.io/clorometano)
+- [x] [Cloroetano](https://grsousajunior.github.io/cloroetano)
+- [x] [Ciclopropano, 1,2-dicloro-, cis](https://grsousajunior.github.io/cis-1-2-diclorociclopropano)
+- [x] [Ciclopropano, 1,2-dicloro-, trans](https://grsousajunior.github.io/trans-1-2-diclorociclopropano)
+- [x] [Dicloroeteno, 1,2-dicloro-, cis-](http://grsousajunior.github.io/cis-1-2-dicloroeteno)
+- [x] [Dicloroeteno, 1,2-dicloro-, trans-](http://grsousajunior.github.io/trans-1-2-dicloroeteno)
+
+#### Bromo (2)
+
+- [x] [Bromometano](https://grsousajunior.github.io/bromometano)
+- [x] [Bromoetano](https://grsousajunior.github.io/bromoetano)
+
+#### Iodo (2)
+
+- [x] [Iodometano](https://grsousajunior.github.io/iodometano)
+- [x] [Iodoetano](https://grsousajunior.github.io/iodoetano)
+
 ## TODO
 
 Preparar modelos das seguintes moléculas:
@@ -89,14 +117,6 @@ Preparar modelos das seguintes moléculas:
 
 ### Haloalcanos
 
-- [x] Fluorometano
-- [x] Clorometano
-- [x] Bromometano
-- [x] Iodometano
-- [x] Fluoroetano
-- [x] Cloroetano
-- [x] Bromoetano
-- [x] Iodoetano
 - [ ] Dicloroetano, 1,2-
 - [ ] Cloreto de isopropila
 - [ ] Cloreto de tert-butila
