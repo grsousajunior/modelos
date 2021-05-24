@@ -18,7 +18,7 @@ Repositório para modelos moleculares usados no ensino de química.
 - [x] [Nonano](https://grsousajunior.github.io/nonano)
 - [x] [Decano](https://grsousajunior.github.io/decano)
 
-### Haloalcanos (12)
+### Haletos (12)
 
 Abaixo os modelos de haloalcanos disponíveis separados por halogênio.
 
