@@ -86,6 +86,12 @@ Preparar modelos das seguintes moléculas:
 ### Alcinos
 
 - [ ] Etino (acetileno)
+- [ ] Propino
+- [ ] But-1-ino
+- [ ] But-1-ino, 3-metil-
+- [ ] But-2-ino
+- [ ] Pent-1-ino
+- [ ] Pent-2-ino
 
 ### Eteno
 
