@@ -1,10 +1,12 @@
 # Modelos
 
+[Início][inicio] > [Modelos][modelos]
+
 Repositório para modelos moleculares usados no ensino de química.
 
 ## Modelos disponíveis
 
-### Alcanos (11)
+### [Alcanos (11)](hidrocarbonetos/alcanos/)
 
 - [x] [Metano](https://grsousajunior.github.io/metano)
 - [x] [Etano](https://grsousajunior.github.io/etano)
@@ -18,9 +20,26 @@ Repositório para modelos moleculares usados no ensino de química.
 - [x] [Nonano](https://grsousajunior.github.io/nonano)
 - [x] [Decano](https://grsousajunior.github.io/decano)
 
-### Haletos (12)
+### [Cicloalcanos (14)](hidrocarbonetos/cicloalcanos/)
 
-Abaixo os modelos de haloalcanos disponíveis separados por halogênio.
+- [x] [Ciclopropano](https://grsousajunior.github.io/ciclopropano)
+- [x] [Ciclobutano](https://grsousajunior.github.io/ciclobutano)
+- [x] [Ciclopentano](https://grsousajunior.github.io/ciclopentano)
+- [x] [Ciclopentano, envelope](https://grsousajunior.github.io/ciclopentano-envelope)
+- [x] [Ciclopentano, semicadeira](https://grsousajunior.github.io/ciclopentano-semicadeira)
+- [x] [Cicloexano](https://grsousajunior.github.io/cicloexano)
+- [x] [Cicloexano (cadeira)](https://grsousajunior.github.io/cicloexano-cadeira)
+- [x] [Cicloexano (semicadeira)](https://grsousajunior.github.io/cicloexano-semicadeira)
+- [x] [Cicloexano (barco)](https://grsousajunior.github.io/cicloexano-barco)
+- [x] [Cicloexano (barco torcido)](https://grsousajunior.github.io/cicloexano-barco-torcido)
+- [x] [Cicloeptano](https://grsousajunior.github.io/cicloeptano)
+- [x] [Ciclo-octano](https://grsousajunior.github.io/ciclo-octano)
+- [x] [Ciclononano](https://grsousajunior.github.io/ciclononano)
+- [x] [Ciclodecano](https://grsousajunior.github.io/ciclodecano)
+
+### [Haletos (12)](hidrocarbonetos/haletos/)
+
+Abaixo os modelos de haletos disponíveis, separados por halogênio.
 
 #### Flúor (2)
 
@@ -59,17 +78,6 @@ Preparar modelos das seguintes moléculas:
 - [ ] Butano gauche
 - [ ] Butano eclipsado 2
 - [x] Neopentano
-
-### Cicloalcanos (8)
-
-- [x] Ciclopropano
-- [x] Ciclobutano
-- [x] Ciclopentano
-- [x] Cicloexano
-- [ ] Cicloeptano
-- [ ] Ciclooctano
-- [ ] Ciclononano
-- [ ] Ciclodecano
 
 ### Alcenos (9)
 
@@ -144,3 +152,6 @@ Preparar modelos das seguintes moléculas:
 - [ ] Perileno
 - [ ] Coroneno
 - [ ] Trifenilmetano
+
+[inicio]: https://grsousajunior.github.io
+[modelos]: https://grsousajunior.github.io/modelos
