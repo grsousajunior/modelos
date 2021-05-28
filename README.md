@@ -1,69 +1,86 @@
-# Modelos
+# Modelos moleculares
 
 [Início][inicio] > [Modelos][modelos]
 
-Repositório para modelos moleculares usados no ensino de química.
+Abaixo os modelos moleculares atualmente disponíveis, separados por função orgânica.
+Note que para alguns modelos, as *conformações* mais comuns estão disponíveis.
+Os *Mapas de Potencial Eletrostático* (MPE) de alguns modelos selecionados também estão disponíveis.
 
-## Modelos disponíveis
+## [Alcanos][alcanos]
 
-### [Alcanos (11)](hidrocarbonetos/alcanos/)
+- [Metano](https://grsousajunior.github.io/metano)
+- [Etano](https://grsousajunior.github.io/etano)
+  - [Etano (alternado)](https://grsousajunior.github.io/etano-alternado)
+  - [Etano (eclipsado)](https://grsousajunior.github.io/etano-eclipsado)
+- [Propano](https://grsousajunior.github.io/propano)
+- [Isopropano](https://grsousajunior.github.io/isopropano)
+- [Butano](https://grsousajunior.github.io/butano)
+  - [Butano (anti)](https://grsousajunior.github.io/butano-anti)
+  - [Butano (antiperiplanar)](https://grsousajunior.github.io/butano-antiperiplanar)
+  - [Butano (anticlinal)](https://grsousajunior.github.io/butano-anticlinal)
+  - [Butano (eclipsado 1)](https://grsousajunior.github.io/butano-eclipsado-1)
+  - [Butano (sinclinal)](https://grsousajunior.github.io/butano-sinclinal)
+  - [Butano (gauche)](https://grsousajunior.github.io/butano-gauche)
+  - [Butano (sin)](https://grsousajunior.github.io/butano-sin)
+  - [Butano (simperiplanar)](https://grsousajunior.github.io/butano-sinperiplanar)
+  - [Butano (eclipsado 2)](https://grsousajunior.github.io/butano-eclipsado-2)
+- [Pentano](https://grsousajunior.github.io/pentano)
+- [Hexano](https://grsousajunior.github.io/hexano)
+- [Heptano](https://grsousajunior.github.io/heptano)
+- [Octano](https://grsousajunior.github.io/octano)
+- [Nonano](https://grsousajunior.github.io/nonano)
+- [Decano](https://grsousajunior.github.io/decano)
 
-- [x] [Metano](https://grsousajunior.github.io/metano)
-- [x] [Etano](https://grsousajunior.github.io/etano)
-- [x] [Propano](https://grsousajunior.github.io/propano)
-- [x] [Isopropano](https://grsousajunior.github.io/isopropano)
-- [x] [Butano](https://grsousajunior.github.io/butano)
-- [x] [Pentano](https://grsousajunior.github.io/pentano)
-- [x] [Hexano](https://grsousajunior.github.io/hexano)
-- [x] [Heptano](https://grsousajunior.github.io/heptano)
-- [x] [Octano](https://grsousajunior.github.io/octano)
-- [x] [Nonano](https://grsousajunior.github.io/nonano)
-- [x] [Decano](https://grsousajunior.github.io/decano)
+## [Cicloalcanos][cicloalcanos]
 
-### [Cicloalcanos (14)](hidrocarbonetos/cicloalcanos/)
+- [Ciclopropano](https://grsousajunior.github.io/ciclopropano)
+- [Ciclobutano](https://grsousajunior.github.io/ciclobutano)
+- [Ciclopentano](https://grsousajunior.github.io/ciclopentano)
+  - [Ciclopentano (envelope)](https://grsousajunior.github.io/ciclopentano-envelope)
+  - [Ciclopentano (semicadeira)](https://grsousajunior.github.io/ciclopentano-semicadeira)
+- [Cicloexano](https://grsousajunior.github.io/cicloexano)
+  - [Cicloexano (cadeira)](https://grsousajunior.github.io/cicloexano-cadeira)
+  - [Cicloexano (semicadeira)](https://grsousajunior.github.io/cicloexano-semicadeira)
+  - [Cicloexano (barco)](https://grsousajunior.github.io/cicloexano-barco)
+  - [Cicloexano (barco torcido)](https://grsousajunior.github.io/cicloexano-barco-torcido)
+- [Cicloeptano](https://grsousajunior.github.io/cicloeptano)
+- [Ciclo-octano](https://grsousajunior.github.io/ciclo-octano)
+- [Ciclononano](https://grsousajunior.github.io/ciclononano)
+- [Ciclodecano](https://grsousajunior.github.io/ciclodecano)
 
-- [x] [Ciclopropano](https://grsousajunior.github.io/ciclopropano)
-- [x] [Ciclobutano](https://grsousajunior.github.io/ciclobutano)
-- [x] [Ciclopentano](https://grsousajunior.github.io/ciclopentano)
-- [x] [Ciclopentano, envelope](https://grsousajunior.github.io/ciclopentano-envelope)
-- [x] [Ciclopentano, semicadeira](https://grsousajunior.github.io/ciclopentano-semicadeira)
-- [x] [Cicloexano](https://grsousajunior.github.io/cicloexano)
-- [x] [Cicloexano (cadeira)](https://grsousajunior.github.io/cicloexano-cadeira)
-- [x] [Cicloexano (semicadeira)](https://grsousajunior.github.io/cicloexano-semicadeira)
-- [x] [Cicloexano (barco)](https://grsousajunior.github.io/cicloexano-barco)
-- [x] [Cicloexano (barco torcido)](https://grsousajunior.github.io/cicloexano-barco-torcido)
-- [x] [Cicloeptano](https://grsousajunior.github.io/cicloeptano)
-- [x] [Ciclo-octano](https://grsousajunior.github.io/ciclo-octano)
-- [x] [Ciclononano](https://grsousajunior.github.io/ciclononano)
-- [x] [Ciclodecano](https://grsousajunior.github.io/ciclodecano)
+## [Haletos][haletos]
 
-### [Haletos (12)](hidrocarbonetos/haletos/)
+### Flúor
 
-Abaixo os modelos de haletos disponíveis, separados por halogênio.
+- [Fluoreto de hidrogênio](htts://grsousajunior.github.io/hf)
+  - [Fluoreto de hidrogênio (MPE)](htts://grsousajunior.github.io/hf-mpe)
+- [Fluorometano](https://grsousajunior.github.io/fluorometano)
+- [Fluoroetano](https://grsousajunior.github.io/fluoroetano)
 
-#### Flúor (2)
+### Cloro
 
-- [x] [Fluorometano](https://grsousajunior.github.io/fluorometano)
-- [x] [Fluoroetano](https://grsousajunior.github.io/fluoroetano)
+- [Cloreto de hidrogênio](htts://grsousajunior.github.io/hcl)
+  - [Cloreto de hidrogênio (MPE)](htts://grsousajunior.github.io/hcl-mpe)
+- [Clorometano](https://grsousajunior.github.io/clorometano)
+- [Cloroetano](https://grsousajunior.github.io/cloroetano)
+- [Ciclopropano, 1,2-dicloro-, cis](https://grsousajunior.github.io/cis-1-2-diclorociclopropano)
+- [Ciclopropano, 1,2-dicloro-, trans](https://grsousajunior.github.io/trans-1-2-diclorociclopropano)
+- [Dicloroeteno, 1,2-dicloro-, cis-](http://grsousajunior.github.io/cis-1-2-dicloroeteno)
+- [Dicloroeteno, 1,2-dicloro-, trans-](http://grsousajunior.github.io/trans-1-2-dicloroeteno)
 
-#### Cloro (6)
+### Bromo
 
-- [x] [Clorometano](https://grsousajunior.github.io/clorometano)
-- [x] [Cloroetano](https://grsousajunior.github.io/cloroetano)
-- [x] [Ciclopropano, 1,2-dicloro-, cis](https://grsousajunior.github.io/cis-1-2-diclorociclopropano)
-- [x] [Ciclopropano, 1,2-dicloro-, trans](https://grsousajunior.github.io/trans-1-2-diclorociclopropano)
-- [x] [Dicloroeteno, 1,2-dicloro-, cis-](http://grsousajunior.github.io/cis-1-2-dicloroeteno)
-- [x] [Dicloroeteno, 1,2-dicloro-, trans-](http://grsousajunior.github.io/trans-1-2-dicloroeteno)
+- [Brometo de hidrogênio](htts://grsousajunior.github.io/hbr)
+  - [Brometo de hidrogênio (MPE)](htts://grsousajunior.github.io/hbr-mpe)
+- [Bromometano](https://grsousajunior.github.io/bromometano)
+- [Bromoetano](https://grsousajunior.github.io/bromoetano)
 
-#### Bromo (2)
+### Iodo
 
-- [x] [Bromometano](https://grsousajunior.github.io/bromometano)
-- [x] [Bromoetano](https://grsousajunior.github.io/bromoetano)
-
-#### Iodo (2)
-
-- [x] [Iodometano](https://grsousajunior.github.io/iodometano)
-- [x] [Iodoetano](https://grsousajunior.github.io/iodoetano)
+- [Iodeto de hidrogênio](htts://grsousajunior.github.io/hi)
+  - [Iodeto de hidrogênio (MPE)](htts://grsousajunior.github.io/hi-mpe)
+- [Iodometano](https://grsousajunior.github.io/iodometano)
+- [Iodoetano](https://grsousajunior.github.io/iodoetano)
 
 ## TODO
 
@@ -155,3 +172,7 @@ Preparar modelos das seguintes moléculas:
 
 [inicio]: https://grsousajunior.github.io
 [modelos]: https://grsousajunior.github.io/modelos
+[hidrocarbonetos]: https://grsousajunior.github.io/modelos/hidrocarbonetos
+[alcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcanos
+[cicloalcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcanos
+[haletos]: https://grsousajunior.github.io/modelos/haletos
