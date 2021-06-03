@@ -1,10 +1,10 @@
 # Modelos moleculares
 
-[Início][inicio] > [Modelos][modelos]
+[Início][inicio] › [Modelos][modelos]
 
-Abaixo os modelos moleculares atualmente disponíveis, separados por função orgânica.
-Note que para alguns modelos, as *conformações* mais comuns estão disponíveis.
-Os *Mapas de Potencial Eletrostático* (MPE) de alguns modelos selecionados também estão disponíveis.
+Abaixo os modelos moleculares atualmente disponíveis, separados por função orgânica.  
+Note que, para alguns modelos, as *conformações* mais comuns estão disponíveis.  
+*Mapas de Potencial Eletrostático* (MPE) de alguns modelos selecionados também estão disponíveis.
 
 ## [Alcanos][alcanos]
 
@@ -25,6 +25,7 @@ Os *Mapas de Potencial Eletrostático* (MPE) de alguns modelos selecionados tamb
   - [Butano (simperiplanar)](https://grsousajunior.github.io/butano-sinperiplanar)
   - [Butano (eclipsado 2)](https://grsousajunior.github.io/butano-eclipsado-2)
 - [Pentano](https://grsousajunior.github.io/pentano)
+- [Neopentano](https://grsousajunior.github.io/neopentano)
 - [Hexano](https://grsousajunior.github.io/hexano)
 - [Heptano](https://grsousajunior.github.io/heptano)
 - [Octano](https://grsousajunior.github.io/octano)
@@ -47,6 +48,24 @@ Os *Mapas de Potencial Eletrostático* (MPE) de alguns modelos selecionados tamb
 - [Ciclo-octano](https://grsousajunior.github.io/ciclo-octano)
 - [Ciclononano](https://grsousajunior.github.io/ciclononano)
 - [Ciclodecano](https://grsousajunior.github.io/ciclodecano)
+
+## Arenos
+
+- [Benzeno](https://grsousajunior.github.io/benzeno)
+- [Tolueno](https://grsousajunior.github.io/tolueno)
+- [Naftaleno](https://grsousajunior.github.io/naftaleno)
+- [Bifenilo](https://grsousajunior.github.io/bifenilo)
+- [Fluoreno](https://grsousajunior.github.io/floreno)
+- [Antraceno](https://grsousajunior.github.io/antraceno)
+- [Fenantreno](https://grsousajunior.github.io/fenantreno)
+- [Trifenileno](https://grsousajunior.github.io/trifenileno)
+- [Fenaleno, 1*H*-](https://grsousajunior.github.io/1H-fenaleno)
+- [Tetraceno](https://grsousajunior.github.io/tetraceno)
+- [Criseno](https://grsousajunior.github.io/criseno)
+- [Pireno](https://grsousajunior.github.io/pireno)
+- [Perileno](https://grsousajunior.github.io/perileno)
+- [Coroneno](https://grsousajunior.github.io/coroneno)
+- [Trifenilmetano](https://grsousajunior.github.io/trifenileno)
 
 ## [Haletos][haletos]
 
@@ -84,19 +103,15 @@ Os *Mapas de Potencial Eletrostático* (MPE) de alguns modelos selecionados tamb
 
 ## TODO
 
-Preparar modelos das seguintes moléculas:
+Eu gostaria ainda de preparar modelos das seguintes moléculas:
 
-### Alcanos (7)
+### Alcanos
 
-- [ ] Etano alternado
-- [ ] Etano eclipsado
-- [x] Butano anti
-- [ ] Butano eclipsado 1
-- [ ] Butano gauche
-- [ ] Butano eclipsado 2
 - [x] Neopentano
+- [ ] Decalina, *cis*-
+- [ ] Decalina, *trans*-
 
-### Alcenos (9)
+### Alcenos
 
 - [x] Eteno (etileno)
 - [ ] Propeno
@@ -148,27 +163,10 @@ Preparar modelos das seguintes moléculas:
 
 ### Haloalcanos
 
+- [ ] Dicloroetano, 1,1-
 - [ ] Dicloroetano, 1,2-
 - [ ] Cloreto de isopropila
 - [ ] Cloreto de tert-butila
-
-### Arenos (14)
-
-- [ ] Benzeno
-- [ ] Tolueno
-- [ ] Naftaleno
-- [ ] Bifenilo
-- [ ] Fluoreno
-- [ ] Antraceno
-- [ ] Fenantreno
-- [ ] Fenaleno
-- [ ] Tetraceno
-- [ ] Criseno
-- [ ] Trifenileno
-- [ ] Pireno
-- [ ] Perileno
-- [ ] Coroneno
-- [ ] Trifenilmetano
 
 [inicio]: https://grsousajunior.github.io
 [modelos]: https://grsousajunior.github.io/modelos
