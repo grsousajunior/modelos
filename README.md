@@ -49,7 +49,7 @@ Note que, para alguns modelos, as *conformações* mais comuns estão disponíve
 - [Ciclononano](https://grsousajunior.github.io/ciclononano)
 - [Ciclodecano](https://grsousajunior.github.io/ciclodecano)
 
-## Arenos
+## [Arenos][arenos]
 
 - [Benzeno](https://grsousajunior.github.io/benzeno)
 - [Tolueno](https://grsousajunior.github.io/tolueno)
@@ -107,7 +107,6 @@ Eu gostaria ainda de preparar modelos das seguintes moléculas:
 
 ### Alcanos
 
-- [x] Neopentano
 - [ ] Decalina, *cis*-
 - [ ] Decalina, *trans*-
 
@@ -168,9 +167,65 @@ Eu gostaria ainda de preparar modelos das seguintes moléculas:
 - [ ] Cloreto de isopropila
 - [ ] Cloreto de tert-butila
 
+### Álcoois
+
+- [ ] Metanol
+- [ ] Etanol
+- [ ] Propan-1-ol
+- [ ] Propan-2-ol (Isopropanol)
+- [ ] Butan-1-ol
+- [ ] Butan-2-ol, (*R*)-
+- [ ] Butan-2-ol, (*S*)-
+
+### Tióis
+
+- [ ] Metanotiol
+- [ ] Etanotiol
+- [ ] Propanotiol (Propan-1-tiol)
+- [ ] Isopropanotiol
+- [ ] Butano-1-tiol
+
+### Por função
+
+Eu gostaria de preparar também alguns modelos das seguintes funções orgânicas:
+
+- [ ] Éteres
+- [ ] Tioéteres
+- [ ] Epóxidos
+- [ ] Epissulfetos
+- [ ] Peróxidos
+- [ ] Dissulfetos
+- [ ] Fenóis
+- [ ] Tiofenóis
+- [ ] Aminas
+- [ ] Iminas
+- [ ] Nitrilas
+- [ ] Aldeídos
+- [ ] Tioaldeídos (Tiais)
+- [ ] Cetonas
+- [ ] Tiocetonas (Tionas)
+- [ ] Ácidos carboxílicos
+- [ ] Ésteres
+- [ ] Tioésteres
+- [ ] Anidridos de ácido
+- [ ] Haletos de ácido
+- [ ] Amidas
+- [ ] Imidas
+- [ ] Ureias
+- [ ] Carbonatos
+- [ ] Carbamatos
+- [ ] Amidinas
+- [ ] Guanidinas
+- [ ] Azidas
+- [ ] Nitrocompostos
+- [ ] Oximas
+- [ ] Sulfóxidos
+- [ ] Sulfonas
+
 [inicio]: https://grsousajunior.github.io
 [modelos]: https://grsousajunior.github.io/modelos
 [hidrocarbonetos]: https://grsousajunior.github.io/modelos/hidrocarbonetos
 [alcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcanos
 [cicloalcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcanos
+[arenos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/arenos
 [haletos]: https://grsousajunior.github.io/modelos/haletos
