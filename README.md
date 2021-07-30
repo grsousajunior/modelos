@@ -13,13 +13,35 @@
   ![cyan](https://img.shields.io/badge/template-0-0dcaf0)
   ![gray](https://img.shields.io/badge/template-0-6c757d)
   ![gray-dark](https://img.shields.io/badge/template-0-343a40)
- -->
+  -->
 
-![numero-modelos-alcanos](https://img.shields.io/badge/alcanos-15-0d6efd)
-![numero-modelos-cicloalcanos](https://img.shields.io/badge/cicloalcanos-12-0d6efd)
-![numero-modelos-alcenos](https://img.shields.io/badge/alcenos-15-6610f2)
-![numero-modelos-arenos](https://img.shields.io/badge/arenos-15-6f42c1)
-![numero-modelo-alcoois](https://img.shields.io/badge/alcoois-10-dc3545)
+
+![modelos de alcanos](https://img.shields.io/badge/alcanos-15-6c757d)
+![modelos de cicloalcanos](https://img.shields.io/badge/cicloalcanos-12-6c757d)
+
+![modelos de alcenos](https://img.shields.io/badge/alcenos-37-0d6efd)
+![modelos de cicloalcenos](https://img.shields.io/badge/cicloalcenos-2-0d6efd)
+
+![modelos de alcinos](https://img.shields.io/badge/alcinos-4-6610f2)
+
+![modelos de arenos](https://img.shields.io/badge/arenos-15-6f42c1)
+
+![modelos de álcoois](https://img.shields.io/badge/álcoois-10-dc3545)
+![modelos de éteres](https://img.shields.io/badge/éteres-10-dc3545)
+
+
+![modelos de tióis](https://img.shields.io/badge/tióis-4-ffc107)
+![modelos de tioéteres](https://img.shields.io/badge/tioéteres-2-ffc107)
+
+![modelos de halogênios](https://img.shields.io/badge/halogênios-4-198754)
+![modelos de haletos](https://img.shields.io/badge/haletos-16-20c997)
+
+![modelos de ácidos carboxílicos](https://img.shields.io/badge/ácidos%20carboxílicos-4-dc3545)
+![modelos de ácidos ésteres](https://img.shields.io/badge/ésteres-12-dc3545)
+
+![modelos de amidas](https://img.shields.io/badge/amidas-4-6610f2)
+![modelos de ureias](https://img.shields.io/badge/ureias-4-6610f2)
+![modelos de nitrilas](https://img.shields.io/badge/nitrilas-5-6f42c1)
 
 [Início][inicio] › [Modelos][modelos]
 
@@ -90,6 +112,8 @@ Note que, para alguns modelos, as *conformações* mais comuns estão disponíve
 - [Perileno](https://grsousajunior.github.io/perileno)
 - [Coroneno](https://grsousajunior.github.io/coroneno)
 - [Trifenilmetano](https://grsousajunior.github.io/trifenileno)
+
+## [Halogênios][halogenios]
 
 ## [Haletos][haletos]
 
@@ -217,41 +241,34 @@ Eu gostaria ainda de preparar modelos das seguintes moléculas:
 - Isopropanotiol
 - Butano-1-tiol
 
-### Por função
+## Por função
 
 Eu gostaria de preparar também alguns modelos das seguintes funções orgânicas:
 
-- Tioéteres
-- Epóxidos
-- Epissulfetos
-- Peróxidos
-- Dissulfetos
-- Fenóis
-- Tiofenóis
-- Aminas
-- Iminas
-- Nitrilas
 - Aldeídos
-- Tioaldeídos (Tiais)
-- Cetonas
-- Tiocetonas (Tionas)
-- Ácidos carboxílicos
-- Ésteres
-- Tioésteres
-- Anidridos de ácido
-- Haletos de ácido
-- Amidas
-- Imidas
-- Ureias
-- Carbonatos
-- Carbamatos
 - Amidinas
-- Guanidinas
+- Aminas
+- Anidridos de ácido
 - Azidas
+- Carbonatos
+- Cetonas
+- Dissulfetos
+- Epissulfetos
+- Epóxidos
+- Fenóis
+- Guanidinas
+- Haletos de ácido
+- Imidas
+- Iminas
 - Nitrocompostos
 - Oximas
-- Sulfóxidos
+- Peróxidos
 - Sulfonas
+- Sulfóxidos
+- Tioaldeídos (Tiais)
+- Tiocetonas (Tionas)
+- Tioésteres
+- Tiofenóis
 
 <!-- ### Orbitais
 
@@ -262,9 +279,10 @@ Eu gostaria de preparar também alguns modelos das seguintes funções orgânica
 - $\mathrm{3d}_{xy}$, $\mathrm{3d}_{xz}$, $\mathrm{3d}_{yz}$, $\mathrm{3d}_{x^2 - y^2}$ e $\mathrm{3d}_{z^2}$ -->
 
 [inicio]: https://grsousajunior.github.io
-[modelos]: https://grsousajunior.github.io/modelos
-[hidrocarbonetos]: https://grsousajunior.github.io/modelos/hidrocarbonetos
-[alcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcanos
-[cicloalcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcanos
-[arenos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/arenos
-[haletos]: https://grsousajunior.github.io/modelos/haletos
+[modelos]: https://grsousajunior.github.io/modelos/
+[hidrocarbonetos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/
+[alcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcanos/
+[cicloalcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcanos/
+[arenos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/arenos/
+[halogenios]: https://grsousajunior.github.io/modelos/halogenios/
+[haletos]: https://grsousajunior.github.io/modelos/haletos/
