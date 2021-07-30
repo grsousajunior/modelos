@@ -1,10 +1,32 @@
 # Modelos moleculares
 
+<!-- 
+  ![blue](https://img.shields.io/badge/template-0-0d6efd)
+  ![indigo](https://img.shields.io/badge/template-0-6610f2)
+  ![purple](https://img.shields.io/badge/template-0-6f42c1)
+  ![pink](https://img.shields.io/badge/template-0-d63384)
+  ![red](https://img.shields.io/badge/template-0-dc3545)
+  ![orange](https://img.shields.io/badge/template-0-fd7e14)
+  ![yellow](https://img.shields.io/badge/template-0-ffc107)
+  ![green](https://img.shields.io/badge/template-0-198754)
+  ![teal](https://img.shields.io/badge/template-0-20c997)
+  ![cyan](https://img.shields.io/badge/template-0-0dcaf0)
+  ![gray](https://img.shields.io/badge/template-0-6c757d)
+  ![gray-dark](https://img.shields.io/badge/template-0-343a40)
+ -->
+
+![numero-modelos-alcanos](https://img.shields.io/badge/alcanos-15-0d6efd)
+![numero-modelos-cicloalcanos](https://img.shields.io/badge/cicloalcanos-12-0d6efd)
+![numero-modelos-alcenos](https://img.shields.io/badge/alcenos-15-6610f2)
+![numero-modelos-arenos](https://img.shields.io/badge/arenos-15-6f42c1)
+![numero-modelo-alcoois](https://img.shields.io/badge/alcoois-10-dc3545)
+
 [Início][inicio] › [Modelos][modelos]
 
 Abaixo os modelos moleculares atualmente disponíveis, separados por função orgânica.  
 Note que, para alguns modelos, as *conformações* mais comuns estão disponíveis.  
 *Mapas de Potencial Eletrostático* (MPE) de alguns modelos selecionados também estão disponíveis.
+
 
 ## [Alcanos][alcanos]
 
@@ -48,6 +70,8 @@ Note que, para alguns modelos, as *conformações* mais comuns estão disponíve
 - [Ciclo-octano](https://grsousajunior.github.io/ciclo-octano)
 - [Ciclononano](https://grsousajunior.github.io/ciclononano)
 - [Ciclodecano](https://grsousajunior.github.io/ciclodecano)
+- [Decalina, *cis*-](#)
+- [Decalina, *trans*-](#)
 
 ## [Arenos][arenos]
 
@@ -82,10 +106,10 @@ Note que, para alguns modelos, as *conformações* mais comuns estão disponíve
   - [Cloreto de hidrogênio (MPE)](https://grsousajunior.github.io/hcl-mpe)
 - [Clorometano](https://grsousajunior.github.io/clorometano)
 - [Cloroetano](https://grsousajunior.github.io/cloroetano)
-- [Ciclopropano, 1,2-dicloro-, cis](https://grsousajunior.github.io/cis-1-2-diclorociclopropano)
-- [Ciclopropano, 1,2-dicloro-, trans](https://grsousajunior.github.io/trans-1-2-diclorociclopropano)
-- [Dicloroeteno, 1,2-dicloro-, cis-](https://grsousajunior.github.io/cis-1-2-dicloroeteno)
-- [Dicloroeteno, 1,2-dicloro-, trans-](https://grsousajunior.github.io/trans-1-2-dicloroeteno)
+- [Ciclopropano, 1,2-dicloro-, *cis*](https://grsousajunior.github.io/cis-1-2-diclorociclopropano)
+- [Ciclopropano, 1,2-dicloro-, *trans*](https://grsousajunior.github.io/trans-1-2-diclorociclopropano)
+- [Dicloroeteno, 1,2-dicloro-, *cis*-](https://grsousajunior.github.io/cis-1-2-dicloroeteno)
+- [Dicloroeteno, 1,2-dicloro-, *trans*-](https://grsousajunior.github.io/trans-1-2-dicloroeteno)
 
 ### Bromo
 
@@ -105,122 +129,137 @@ Note que, para alguns modelos, as *conformações* mais comuns estão disponíve
 
 Eu gostaria ainda de preparar modelos das seguintes moléculas:
 
-### Alcanos
-
-- [ ] Decalina, *cis*-
-- [ ] Decalina, *trans*-
+- H₂S
+- H₂O₂
+- SO₂
+- Cubano (C₈H₈)
 
 ### Alcenos
 
-- [x] Eteno (etileno)
-- [ ] Propeno
-- [ ] Propeno, 2-metil-
-- [ ] But-1-eno
-- [ ] But-2-eno, (*E*)-
-- [ ] But-2-eno, (*Z*)-
-- [ ] Pent-1-eno
-- [ ] Pent-2-eno, (*E*)-
-- [ ] Pent-2-eno, (*Z*)-
+- Eteno (etileno)
+- Propeno
+- Propeno, 2-metil-
+- But-1-eno
+- But-2-eno, (*E*)-
+- But-2-eno, (*Z*)-
+- Buta-1,3-dieno
+  - Buta-1,3-dieno (s-*cis*-)
+  - Buta-1,3-dieno (s-*trans*-)
+- Pent-1-eno
+- Pent-2-eno, (*E*)-
+- Pent-2-eno, (*Z*)-
+- Hex-1-eno
+- Hex-2-eno, (*E*)-
+- Hex-2-eno, (*Z*)-
+- Hex-3-eno, (*E*)-
+- Hex-3-eno, (*Z*)-
 
 ### Alcinos
 
-- [ ] Etino (acetileno)
-- [ ] Propino
-- [ ] But-1-ino
-- [ ] But-1-ino, 3-metil-
-- [ ] But-2-ino
-- [ ] Pent-1-ino
-- [ ] Pent-2-ino
+- Etino (acetileno)
+- Propino
+- But-1-ino
+- But-1-ino, 3-metil-
+- But-2-ino
+- Pent-1-ino
+- Pent-2-ino
 
 ### Eteno
 
-- [ ] Eteno orbital σ C–C
-- [ ] Eteno orbital π C–C
-- [ ] Eteno orbital HOMO
-- [ ] Eteno orbital LUMO
+- Eteno orbital σ C–C
+- Eteno orbital π C–C
+- Eteno orbital HOMO
+- Eteno orbital LUMO
 
 ### Etino
 
-- [ ] Orbital σ C–C
-- [ ] Orbital π₁ C–C
-- [ ] Orbital π₂ C–C
-- [ ] HOMO
-- [ ] LUMO
+- Orbital σ C–C
+- Orbital π₁ C–C
+- Orbital π₂ C–C
+- HOMO
+- LUMO
 
 ### Hiperconjugação
 
-- [ ] Cátion primário
-- [ ] Cátion secundário
-- [ ] Cátion terciário
+- Cátion primário
+- Cátion secundário
+- Cátion terciário
 
 ### Formaldeído
 
-- [ ] Orbital σ C=O
-- [ ] Orbital π C=O
-- [ ] HOMO
-- [ ] LUMO
+- Orbital σ C=O
+- Orbital π C=O
+- HOMO
+- LUMO
 
 ### Haloalcanos
 
-- [ ] Dicloroetano, 1,1-
-- [ ] Dicloroetano, 1,2-
-- [ ] Cloreto de isopropila
-- [ ] Cloreto de tert-butila
+- Dicloroetano, 1,1-
+- Dicloroetano, 1,2-
+- Cloreto de isopropila
+- Cloreto de tert-butila
 
 ### Álcoois
 
-- [ ] Metanol
-- [ ] Etanol
-- [ ] Propan-1-ol
-- [ ] Propan-2-ol (Isopropanol)
-- [ ] Butan-1-ol
-- [ ] Butan-2-ol, (*R*)-
-- [ ] Butan-2-ol, (*S*)-
+- Metanol
+- Etanol
+- Propan-1-ol
+- Propan-2-ol (Isopropanol)
+- Butan-1-ol
+- Butan-2-ol, (*R*)-
+- Butan-2-ol, (*S*)-
 
 ### Tióis
 
-- [ ] Metanotiol
-- [ ] Etanotiol
-- [ ] Propanotiol (Propan-1-tiol)
-- [ ] Isopropanotiol
-- [ ] Butano-1-tiol
+- Metanotiol
+- Etanotiol
+- Propanotiol (Propan-1-tiol)
+- Isopropanotiol
+- Butano-1-tiol
 
 ### Por função
 
 Eu gostaria de preparar também alguns modelos das seguintes funções orgânicas:
 
-- [ ] Éteres
-- [ ] Tioéteres
-- [ ] Epóxidos
-- [ ] Epissulfetos
-- [ ] Peróxidos
-- [ ] Dissulfetos
-- [ ] Fenóis
-- [ ] Tiofenóis
-- [ ] Aminas
-- [ ] Iminas
-- [ ] Nitrilas
-- [ ] Aldeídos
-- [ ] Tioaldeídos (Tiais)
-- [ ] Cetonas
-- [ ] Tiocetonas (Tionas)
-- [ ] Ácidos carboxílicos
-- [ ] Ésteres
-- [ ] Tioésteres
-- [ ] Anidridos de ácido
-- [ ] Haletos de ácido
-- [ ] Amidas
-- [ ] Imidas
-- [ ] Ureias
-- [ ] Carbonatos
-- [ ] Carbamatos
-- [ ] Amidinas
-- [ ] Guanidinas
-- [ ] Azidas
-- [ ] Nitrocompostos
-- [ ] Oximas
-- [ ] Sulfóxidos
-- [ ] Sulfonas
+- Tioéteres
+- Epóxidos
+- Epissulfetos
+- Peróxidos
+- Dissulfetos
+- Fenóis
+- Tiofenóis
+- Aminas
+- Iminas
+- Nitrilas
+- Aldeídos
+- Tioaldeídos (Tiais)
+- Cetonas
+- Tiocetonas (Tionas)
+- Ácidos carboxílicos
+- Ésteres
+- Tioésteres
+- Anidridos de ácido
+- Haletos de ácido
+- Amidas
+- Imidas
+- Ureias
+- Carbonatos
+- Carbamatos
+- Amidinas
+- Guanidinas
+- Azidas
+- Nitrocompostos
+- Oximas
+- Sulfóxidos
+- Sulfonas
+
+<!-- ### Orbitais
+
+- $\mathrm{1s}$
+- $\mathrm{2s}$
+- $\mathrm{2p}_x$, $\mathrm{2p}_y$ e $\mathrm{2p}_z$
+- $\mathrm{3s}$
+- $\mathrm{3d}_{xy}$, $\mathrm{3d}_{xz}$, $\mathrm{3d}_{yz}$, $\mathrm{3d}_{x^2 - y^2}$ e $\mathrm{3d}_{z^2}$ -->
 
 [inicio]: https://grsousajunior.github.io
 [modelos]: https://grsousajunior.github.io/modelos
