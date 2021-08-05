@@ -18,27 +18,18 @@
 
 ![modelos de alcanos](https://img.shields.io/badge/alcanos-15-6c757d)
 ![modelos de cicloalcanos](https://img.shields.io/badge/cicloalcanos-12-6c757d)
-
 ![modelos de alcenos](https://img.shields.io/badge/alcenos-37-0d6efd)
-![modelos de cicloalcenos](https://img.shields.io/badge/cicloalcenos-2-0d6efd)
-
+![modelos de cicloalcenos](https://img.shields.io/badge/cicloalcenos-13-0d6efd)
 ![modelos de alcinos](https://img.shields.io/badge/alcinos-4-6610f2)
-
 ![modelos de arenos](https://img.shields.io/badge/arenos-15-6f42c1)
-
 ![modelos de álcoois](https://img.shields.io/badge/álcoois-10-dc3545)
 ![modelos de éteres](https://img.shields.io/badge/éteres-10-dc3545)
-
-
 ![modelos de tióis](https://img.shields.io/badge/tióis-4-ffc107)
 ![modelos de tioéteres](https://img.shields.io/badge/tioéteres-2-ffc107)
-
 ![modelos de halogênios](https://img.shields.io/badge/halogênios-4-198754)
 ![modelos de haletos](https://img.shields.io/badge/haletos-16-20c997)
-
 ![modelos de ácidos carboxílicos](https://img.shields.io/badge/ácidos%20carboxílicos-4-dc3545)
 ![modelos de ácidos ésteres](https://img.shields.io/badge/ésteres-12-dc3545)
-
 ![modelos de amidas](https://img.shields.io/badge/amidas-4-6610f2)
 ![modelos de ureias](https://img.shields.io/badge/ureias-4-6610f2)
 ![modelos de nitrilas](https://img.shields.io/badge/nitrilas-5-6f42c1)
