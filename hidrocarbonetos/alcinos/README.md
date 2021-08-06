@@ -5,12 +5,11 @@
 [Início][inicio] › [Modelos][modelos] › [Hidrocarbonetos][hidrocarbonetos] › [Alcinos][alcinos]
 
 Abaixo os modelos moleculares de alguns alcinos de cadeia aberta atualmente disponíveis. 
-Para alcinos cíclicos veja [cicloalcinos][cicloalcinos].
 
-- [Etino (Acetileno)](#)
-- [Propino](#)
-- [But-1-eno](#)
-- [But-2-ino](#)
+- [Etino (Acetileno)](etino/)
+- [Propino](propino/)
+- [But-1-ino](but-1-ino/)
+- [But-2-ino](but-2-ino/)
 
 [inicio]: https://grsousajunior.github.io
 [modelos]: https://grsousajunior.github.io/modelos/

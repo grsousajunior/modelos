@@ -1,6 +1,6 @@
 # Cicloalcanos
 
-![modelos de cicloalcanos](https://img.shields.io/badge/cicloalcanos-12-6c757d)
+![total de cicloalcanos](https://img.shields.io/badge/cicloalcanos-12-6c757d)
 
 [Início][inicio] › [Modelos][modelos] › [Hidrocarbonetos][hidrocarbonetos] › [Cicloalcanos][cicloalcanos]
 

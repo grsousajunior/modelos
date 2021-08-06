@@ -1,6 +1,6 @@
 # Alcanos
 
-![modelos de alcanos](https://img.shields.io/badge/alcanos-15-6c757d)
+![total de alcanos](https://img.shields.io/badge/alcanos-16-6c757d)
 
 [Início][inicio] › [Modelos][modelos] › [Hidrocarbonetos][hidrocarbonetos] › [Alcanos][alcanos]
 
@@ -31,7 +31,20 @@ Note que, para alguns modelos, as *conformações* mais comuns estão disponíve
 - [Nonano](https://grsousajunior.github.io/nonano)
 - [Decano](https://grsousajunior.github.io/decano)
 
+### Veja também
+
+- [Alcenos][alcenos]
+- [Alcinos][alcinos]
+- [Cicloalcanos][cicloalcanos]
+- [Cicloalcenos][cicloalcenos]
+- [Cicloalcinos][cicloalcinos]
+
 [inicio]: https://grsousajunior.github.io
-[modelos]: https://grsousajunior.github.io/modelos
-[hidrocarbonetos]: https://grsousajunior.github.io/modelos/hidrocarbonetos
-[alcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcanos
+[modelos]: https://grsousajunior.github.io/modelos/
+[hidrocarbonetos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/
+[alcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcanos/
+[alcenos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcenos/
+[alcinos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcinos/
+[cicloalcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcanos/
+[cicloalcenos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcenos/
+[cicloalcinos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcinos/

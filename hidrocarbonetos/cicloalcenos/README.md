@@ -1,6 +1,6 @@
 # Cicloalcenos
 
-![modelos de cicloalcenos](https://img.shields.io/badge/cicloalcenos-13-0d6efd)
+![total de cicloalcenos](https://img.shields.io/badge/cicloalcenos-13-0d6efd)
 
 [Início][inicio] › [Modelos][modelos] › [Hidrocarbonetos][hidrocarbonetos] › [Cicloalcenos][cicloalcenos]
 
@@ -29,11 +29,11 @@ Abaixo os modelos moleculares de alguns cicloalcenos atualmente disponíveis.
 - [Cicloalcinos][cicloalcinos]
 
 [inicio]: https://grsousajunior.github.io
-[modelos]: https://grsousajunior.github.io/modelos
-[hidrocarbonetos]: https://grsousajunior.github.io/modelos/hidrocarbonetos
+[modelos]: https://grsousajunior.github.io/modelos/
+[hidrocarbonetos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/
 [alcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcanos/
-[cicloalcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcanos/
 [alcenos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcenos/
-[cicloalcenos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcenos/
 [alcinos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/alcinos/
+[cicloalcanos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcanos/
+[cicloalcenos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcenos/
 [cicloalcinos]: https://grsousajunior.github.io/modelos/hidrocarbonetos/cicloalcinos/

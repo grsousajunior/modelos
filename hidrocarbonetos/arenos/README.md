@@ -1,6 +1,6 @@
 # Arenos
 
-![modelos de arenos](https://img.shields.io/badge/arenos-15-6f42c1)
+![total de arenos](https://img.shields.io/badge/arenos-15-6f42c1)
 
 [Início][inicio] › [Modelos][modelos] › [Hidrocarbonetos][hidrocarbonetos] › [Arenos][arenos]
 
